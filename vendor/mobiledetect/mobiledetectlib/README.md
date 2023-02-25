@@ -1,11 +1,11 @@
-![Mobile Detect](http://demo.mobiledetect.net/logo-github.png)
+![Mobile Detect](http://demo.mobiledetect.net/logo-github.webp)
 
 > Motto: "Every business should have a detection script to detect mobile readers."
 
 ![Build status](https://github.com/serbanghita/Mobile-Detect/workflows/Mobile-Detect/badge.svg)
 [![Latest Stable Version](https://poser.pugx.org/mobiledetect/mobiledetectlib/v/stable.svg)](https://packagist.org/packages/mobiledetect/mobiledetectlib) 
 [![Total Downloads](https://poser.pugx.org/mobiledetect/mobiledetectlib/downloads.svg)](https://packagist.org/packages/mobiledetect/mobiledetectlib) 
-[![Daily Downloads](https://poser.pugx.org/mobiledetect/mobiledetectlib/d/daily.png)](https://packagist.org/packages/mobiledetect/mobiledetectlib) 
+[![Daily Downloads](https://poser.pugx.org/mobiledetect/mobiledetectlib/d/daily.webp)](https://packagist.org/packages/mobiledetect/mobiledetectlib) 
 [![License](https://poser.pugx.org/mobiledetect/mobiledetectlib/license.svg)](https://packagist.org/packages/mobiledetect/mobiledetectlib)
 [![Chat on Slack](https://img.shields.io/badge/Slack%20%23general-join-orange.svg)](https://join.slack.com/t/mobiledetect/shared_invite/enQtMjg1NDY0OTg5NzgzLTcwMzEzMWJjZjRlOWFkY2ZiNzE1ZmRmNzEwM2VhOGY5OGVkYWMxNjdkZDU5YjQ5MmM5MGUxYjhlZDQwOGVjZjE)
 
